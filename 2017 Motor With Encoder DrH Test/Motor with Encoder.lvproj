@@ -96,7 +96,9 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="01-27-17.vi" Type="VI" URL="../Test Graphs/01-27-17.vi"/>
+		<Item Name="02-01-17.vi" Type="VI" URL="../../02-01-17.vi"/>
+		<Item Name="02-04-17.vi" Type="VI" URL="../../02-04-17.vi"/>
+		<Item Name="Data from Jan 30 2017.vi" Type="VI" URL="../../Data from Jan 30 2017.vi"/>
 		<Item Name="Motor with Encoder - Bang Bang.vi" Type="VI" URL="../Motor with Encoder - Bang Bang.vi"/>
 		<Item Name="Motor with Encoder - DrH Test v3.vi" Type="VI" URL="../Motor with Encoder - DrH Test v3.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
