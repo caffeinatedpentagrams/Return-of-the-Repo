@@ -30,9 +30,9 @@
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
-	<Item Name="target" Type="RT myRIO">
-		<Property Name="alias.name" Type="Str">target</Property>
-		<Property Name="alias.value" Type="Str">10.21.58.101</Property>
+	<Item Name="2158-frc" Type="RT myRIO">
+		<Property Name="alias.name" Type="Str">2158-frc</Property>
+		<Property Name="alias.value" Type="Str">10.21.58.61</Property>
 		<Property Name="CCSymbols" Type="Str">OS,Linux;CPU,ARM;DeviceCode,76F2;TARGET_TYPE,RT;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">76F2</Property>
 		<Property Name="crio.family" Type="Str">ARMLinux</Property>
@@ -641,7 +641,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Source[0].itemID" Type="Str">{DB01CD21-4447-4671-A00A-D774E7A6FDE1}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/target/Robot Main.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/2158-frc/Robot Main.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
