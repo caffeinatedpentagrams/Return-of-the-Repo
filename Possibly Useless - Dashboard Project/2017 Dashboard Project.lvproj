@@ -12,14 +12,16 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Support" Type="Folder">
-			<Item Name="App EXE.ico" Type="Document" URL="../App EXE.ico"/>
-			<Item Name="Parse Digital Module.vi" Type="VI" URL="../Parse Digital Module.vi"/>
-			<Item Name="Save DB Images.vi" Type="VI" URL="../Save DB Images.vi"/>
-			<Item Name="Decode Status Byte.vi" Type="VI" URL="../Decode Status Byte.vi"/>
-			<Item Name="Panel Resized.vi" Type="VI" URL="../Panel Resized.vi"/>
-			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Adjust Dashboard Window.vi"/>
+			<Item Name="App EXE.ico" Type="Document" URL="../Possibly Useless - Dashboard Project/App EXE.ico"/>
+			<Item Name="Save DB Images.vi" Type="VI" URL="../Possibly Useless - Dashboard Project/Save DB Images.vi"/>
+			<Item Name="Decode Status Byte.vi" Type="VI" URL="../Possibly Useless - Dashboard Project/Decode Status Byte.vi"/>
+			<Item Name="Panel Resized.vi" Type="VI" URL="../Possibly Useless - Dashboard Project/Panel Resized.vi"/>
+			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Possibly Useless - Dashboard Project/Adjust Dashboard Window.vi"/>
 		</Item>
-		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
+		<Item Name="Possibly Useless - Dashboard Project" Type="Folder">
+			<Item Name="Parse Digital Module.vi" Type="VI" URL="../Possibly Useless - Dashboard Project/Parse Digital Module.vi"/>
+		</Item>
+		<Item Name="Dashboard Main.vi" Type="VI" URL="../Possibly Useless - Dashboard Project/Dashboard Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">0</Property>
@@ -219,13 +221,13 @@
 				<Item Name="WPI_UtilitiesGetTreeIOName.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesGetTreeIOName.vi"/>
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
-			<Item Name="Interpolate RGB Color.vi" Type="VI" URL="../Interpolate RGB Color.vi"/>
-			<Item Name="Playback Controls.vi" Type="VI" URL="../Playback Controls.vi"/>
-			<Item Name="Initialize Camera and CheckList.vi" Type="VI" URL="../Initialize Camera and CheckList.vi"/>
-			<Item Name="Open Playback Panel.vi" Type="VI" URL="../Open Playback Panel.vi"/>
+			<Item Name="Interpolate RGB Color.vi" Type="VI" URL="../Possibly Useless - Dashboard Project/Interpolate RGB Color.vi"/>
+			<Item Name="Playback Controls.vi" Type="VI" URL="../Possibly Useless - Dashboard Project/Playback Controls.vi"/>
+			<Item Name="Initialize Camera and CheckList.vi" Type="VI" URL="../Possibly Useless - Dashboard Project/Initialize Camera and CheckList.vi"/>
+			<Item Name="Open Playback Panel.vi" Type="VI" URL="../Possibly Useless - Dashboard Project/Open Playback Panel.vi"/>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
-			<Item Name="Prepare Joystick Data for Displays.vi" Type="VI" URL="../Prepare Joystick Data for Displays.vi"/>
-			<Item Name="Handle Camera Configuration.vi" Type="VI" URL="../Handle Camera Configuration.vi"/>
+			<Item Name="Prepare Joystick Data for Displays.vi" Type="VI" URL="../Possibly Useless - Dashboard Project/Prepare Joystick Data for Displays.vi"/>
+			<Item Name="Handle Camera Configuration.vi" Type="VI" URL="../Possibly Useless - Dashboard Project/Handle Camera Configuration.vi"/>
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
