@@ -149,6 +149,8 @@ AddOutputFilter chunkFilter
 		<Item Name="Autonomous.vi" Type="VI" URL="../Autonomous.vi"/>
 		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		<Item Name="SubSystems.vi" Type="VI" URL="../SubSystems.vi"/>
+		<Item Name="Logitech Gamepad F310 Buttons.ctl" Type="VI" URL="../Logitech Gamepad F310 Buttons.ctl"/>
+		<Item Name="Logitech Gamepad F310 Axes.ctl" Type="VI" URL="../Logitech Gamepad F310 Axes.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
